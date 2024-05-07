@@ -1,0 +1,39 @@
+<resources>
+    <string-array name="length_units">
+        <item>Select Unit</item>
+        <item>Meters</item>
+        <item>Feet</item>
+        <item>Inches</item>
+        <item>Yards</item>
+        <item>Kilometers</item>
+        <item>Miles</item>
+        <item>Millimeters</item>
+    </string-array>
+
+    <string-array name="weight_units">
+        <item>Select Unit</item>
+        <item>Milligrams</item>
+        <item>Kilograms</item>
+        <item>Grams</item>
+        <item>Pounds</item>
+        <item>Ounces</item>
+        <item>Tons</item>
+    </string-array>
+
+    <string-array name="temperature_units">
+        <item>Select Unit</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="data_units">
+        <item>Select Unit</item>
+        <item>Bits</item>
+        <item>Bytes</item>
+        <item>Kilobytes</item>
+        <item>Megabytes</item>
+        <item>Gigabytes</item>
+        <item>Terabytes</item>
+    </string-array>
+</resources>

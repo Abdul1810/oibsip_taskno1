@@ -1,0 +1,8 @@
+<resources>
+    <string name="select_unit" />
+    <string name="temperature">Temperature</string>
+    <string name="weight">Weight</string>
+    <string name="length">Length</string>
+    <string name="data">Data</string>
+    <string name="select_the_type_to_convert">Select the type to convert :</string>
+</resources>
